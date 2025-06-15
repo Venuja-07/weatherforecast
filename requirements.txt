@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+requests
+numpy
+scikit-learn
+tensorflow
+prophet
