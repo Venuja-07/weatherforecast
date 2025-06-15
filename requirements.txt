@@ -6,3 +6,5 @@ numpy
 scikit-learn
 tensorflow
 prophet
+ml-dtypes
+dm-tree
