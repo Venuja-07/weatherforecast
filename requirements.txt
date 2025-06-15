@@ -8,3 +8,4 @@ tensorflow==2.9.0
 prophet
 ml-dtypes
 dm-tree
+protobuf==3.20.3
