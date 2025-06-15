@@ -4,7 +4,7 @@ matplotlib
 requests
 numpy
 scikit-learn
-tensorflow
+tensorflow==2.10.0
 prophet
 ml-dtypes
 dm-tree
